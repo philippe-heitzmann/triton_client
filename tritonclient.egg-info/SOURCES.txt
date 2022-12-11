@@ -1,0 +1,8 @@
+LICENSE
+README.md
+tritonclient.egg-info/PKG-INFO
+tritonclient.egg-info/SOURCES.txt
+tritonclient.egg-info/dependency_links.txt
+tritonclient.egg-info/not-zip-safe
+tritonclient.egg-info/requires.txt
+tritonclient.egg-info/top_level.txt

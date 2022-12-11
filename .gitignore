@@ -1,0 +1,7 @@
+/build
+/.vscode
+src/.vscode
+*.so
+node_modules
+src/c++/perf_analyzer/builddir/
+src/c++/perf_analyzer/.vscode/

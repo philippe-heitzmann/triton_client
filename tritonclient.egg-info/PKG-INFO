@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: tritonclient
+Version: 22.10
+Summary: Python client library and utilities for communicating with Triton Inference Server
+Home-page: https://developer.nvidia.com/nvidia-triton-inference-server
+Author: NVIDIA Inc.
+Author-email: sw-dl-triton@nvidia.com
+License: BSD
+Keywords: grpc,http,triton,tensorrt,inference,server,service,client,nvidia
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: grpc
+Provides-Extra: http
+Provides-Extra: all
+License-File: LICENSE
+
+See [download-using-python-package-installer-pip](https://github.com/triton-inference-server/client/tree/main#download-using-python-package-installer-pip) for package details.
+
+The [client examples](https://github.com/triton-inference-server/client/tree/main/src/python/examples) demonstrate how to use the package to issue request to [triton inference server](https://github.com/triton-inference-server/server).
+
